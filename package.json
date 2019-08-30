@@ -1,5 +1,5 @@
 {
-  "name": "npm-helloworld-test-npm-package",
+  "name": "demo-package-git",
   "version": "1.0.0",
   "description": "This is hello world",
   "main": "index.js",
