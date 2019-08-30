@@ -1,0 +1,15 @@
+{
+  "name": "npm-helloworld-test-npm-package",
+  "version": "1.0.0",
+  "description": "This is hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "npm-hello-world"
+  ],
+  "author": "Yogender Kumar",
+  "license": "ISC"
+}
